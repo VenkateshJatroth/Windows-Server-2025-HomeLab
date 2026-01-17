@@ -30,3 +30,8 @@ This project demonstrates the deployment and configuration of an enterprise-grad
 ### 3. Troubleshooting & Networking
 * Verified DNS connectivity via `nslookup`.
 * Successfully joined a Windows Client VM to the `venky.local` domain.
+
+### 4. Skils Demonstrated 
+* System Hardening
+* Indentity Access Management
+* Virtualization (VMWare)
